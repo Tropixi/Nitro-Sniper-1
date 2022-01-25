@@ -50,7 +50,7 @@
 <br />
 
 - **Q: How can I obtain my token?**
-- A: [How to obtain your token](https://www.youtube.com/watch?v=rawcwqFJCCE)
+- A: [How to obtain your token](https://youtu.be/2ZqK378mtgI)
 
 <br />
 
