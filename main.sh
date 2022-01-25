@@ -13,7 +13,7 @@ function installAll() {
   cd ..
   rm -rf nitro-sniper &> /dev/null
   git clone https://github.com/Mr-Proxy-source/Nitro-Sniper Nitro-Sniper &> /dev/null
-  cd nitro-sniper
+  cd Nitro-Sniper
   echo "$(tput setaf 2)Cloned latest version of the sniper."
   echo "$(tput setaf 6)Installing sniper dependencies..."
   npm install &> /dev/null
